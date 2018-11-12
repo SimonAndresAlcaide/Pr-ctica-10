@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    color: green;
+    background-color: aqua
+}
+
+nav{
+    text-align: center;
+    color: black;
+    background-color: blanchedalmond;
+
+}
+
+body{
+    background-color: azure;
+}
+
+div{
+
+}
+
+a{
+    color: blueviolet;
+    font: lighter;
+    font-style: italic;
+    text-align: center;
+}
+
+table td
+{ padding: 100px;
+   margin: px;
+   width: px;
+}
+
+p{
+text-align: center;
+background-color: darkgoldenrod;
+color: beige;
+}
+b{
+    text-align: center;
+}
+
